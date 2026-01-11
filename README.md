@@ -5,6 +5,7 @@ Soy un desarrollador apasionado por la arquitectura de software robusta y escala
 
 Actualmente, estoy integrando flujos de trabajo de próxima generación ("Vibe Coding") utilizando herramientas de IA avanzadas para optimizar el desarrollo.
 
+Estoy dispuesto a colaborar en proyectos open source aportando con mis conocimientos y habilidades, capacidad de análisis y razonamiento para plantear soluciones.
 ---
 
 ### 🛠️ Tech Stack
