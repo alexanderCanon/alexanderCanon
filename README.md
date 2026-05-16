@@ -1,9 +1,9 @@
 # Hola, mi nombre es Alexander Canon 👋
-### Junior Full Stack Developer | Backend Focused ☕
+### Aspirante a Ingenierio en Sistemas con enfoque en desarrollo backend, ciberseguridad e infraestructura en la nube
 
-Soy un desarrollador apasionado por la arquitectura de software robusta y escalable. Aunque me manejo en todo el stack, mi verdadera fortaleza y pasión residen en el **Backend**, la **Nube (AWS)** y la **Automatización**.
+Soy una persona con interés por la arquitectura de software robusta y escalable. Se me da bien el "full stack" sin embargo; mi verdadera fortaleza y pasión residen en el **Backend**, la **Nube (AWS)** y la **Automatización**.
 
-Actualmente, estoy integrando flujos de trabajo de próxima generación ("Vibe Coding") utilizando herramientas de IA avanzadas para optimizar el desarrollo.
+Actualmente, estoy integrando flujos de trabajo de próxima generación utilizando herramientas de IA avanzadas para optimizar el desarrollo.
 
 Estoy dispuesto a colaborar en proyectos open source aportando con mis conocimientos y habilidades, capacidad de análisis y razonamiento para plantear soluciones.
 ---
@@ -35,10 +35,9 @@ Estoy dispuesto a colaborar en proyectos open source aportando con mis conocimie
 ### 🚀 Habilidades Clave
 
 * **Desarrollo Backend:** Creación de APIs RESTful seguras con **Java Spring Boot**. Implementación de autenticación vía **JWT**.
-* **Base de Datos:** Manejo intermedio de **SQL** y optimización de consultas en **PostgreSQL**.
-* **Cloud & DevOps:** Despliegue y gestión de recursos en **AWS**. Contenerización de aplicaciones con **Docker & Docker Compose**. Manejo de servidores vía **SSH** y scripting en **Bash**.
-* **Modern AI Coding:** Uso de **MCP (Model Context Protocol)** y **Claude Code** para acelerar el desarrollo y mantener el "Flow" (Vibe Coding).
-* **Automatización:** Creación de flujos de trabajo automatizados con **n8n**.
+* **Base de Datos:** Prefiero **PostgreSQL** por ser considerado el sistema de base de datos de código abierto más avanzado del mundo. Se enfoca en el cumplimiento estricto de los estándares SQL y la integridad de los datos.
+* **Cloud & DevOps:** Despliegue y gestión de recursos en **AWS, Azure, GCP, CloudFlare y VPS**. Contenerización de aplicaciones con **Docker & Docker Compose**. Manejo de servidores vía **SSH**.
+* **Automatización:** Creación de flujos de trabajo automatizados con herramientas tales como: **n8n, Make, Zappier**.
 
 ### 🌐 Idiomas
 * **Español:** Nativo
@@ -48,4 +47,4 @@ Estoy dispuesto a colaborar en proyectos open source aportando con mis conocimie
 
 ### 📫 Contáctame
 
-[Icono de LinkedIn] (Tu Link de LinkedIn) | [Icono de Email] (mailto:alexandercanon64.com)
+[Icono de LinkedIn] https://www.linkedin.com/in/alexander-canon-232371330/ | [Icono de Email] (mailto:contact.alexandercanon.com)
