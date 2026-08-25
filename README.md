@@ -9,4 +9,4 @@ Construyo sistemas backend seguros y arquitecturas cloud eficientes — desde Ia
 
 **Profundizando en:** Kubernetes · Observabilidad
 
-📍 Guatemala | [LinkedIn](tu-link) | [alexandercanon.com](https://www.alexandercanon.com)
+📍 Guatemala | [LinkedIn](https://www.linkedin.com/in/alexcanon64) | [alexandercanon.com](https://www.alexandercanon.com)
