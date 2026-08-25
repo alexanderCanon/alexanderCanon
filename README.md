@@ -2,7 +2,7 @@
 
 Construyo sistemas backend seguros y arquitecturas cloud eficientes — desde IaC hasta pipelines de CI/CD con seguridad integrada.
 
-**Trabajando actualmente en:** [Neversion](enlace-al-repo) — plataforma con infraestructura AWS (Terraform, EC2 Graviton), API Gateway en Cloudflare Workers, y auth OIDC end-to-end.
+**Trabajando actualmente en:** [Neversion](https://github.com/alexanderCanon/neversion) — plataforma con infraestructura AWS (Terraform, EC2 Graviton), API Gateway en Cloudflare Workers, y auth OIDC end-to-end.
 
 **Stack:**
 `Java` `Spring Boot` `PostgreSQL` `Terraform` `AWS` `Docker` `GitHub Actions` `Cloudflare Workers`
